@@ -1,4 +1,4 @@
-# Robbetto Obsbot
+# OBSBOT Tiny - Homebrew TAP
 
 ## How do I install these formulae?
 
